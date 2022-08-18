@@ -10,8 +10,21 @@ namespace VariablesConstantsLiterals
     {
         static void Main(string[] args)
         {
-            string myName = "Алексей";
+            const string myName = "Алексей";
             Console.WriteLine(myName);
+
+            Console.WriteLine("\tПривет мир!");
+            Console.WriteLine("\tМне 35 лет");
+            Console.WriteLine("\tМеня зовут\n Алексей");
+
+            Console.WriteLine("Привет,\n  мир");
+
+            Console.WriteLine("\u0040");
+            Console.WriteLine("\u0023");
+
+            Console.WriteLine(true);
+            Console.WriteLine(false);
+
             Console.ReadLine();
         }
     }
