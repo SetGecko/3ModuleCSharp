@@ -10,6 +10,9 @@ namespace VariablesConstantsLiterals
     {
         static void Main(string[] args)
         {
+            string myName = "Алексей";
+            Console.WriteLine(myName);
+            Console.ReadLine();
         }
     }
 }
