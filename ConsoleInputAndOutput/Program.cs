@@ -18,7 +18,16 @@ namespace ConsoleInputAndOutput
             string favcolor = "black";
             Console.WriteLine("{0}\n  {1}\n {2}", name, age, favcolor);
 
+            string myName = "Computer";
+            Console.WriteLine("");
+            Console.WriteLine("Привет, человек!");
+            Console.WriteLine("Меня зовут {0}", myName);
+            Console.WriteLine("");
+            Console.WriteLine("А как тебя зовут?");
+            string YourName = Console.ReadLine();
+            Console.WriteLine("Рад встрече, {0}", YourName);
 
+            Console.ReadKey();
         }
     }
 }
