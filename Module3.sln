@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesConstantsLiterals"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainDataTypes", "MainDataTypes\MainDataTypes.csproj", "{CC48829D-E2E3-4AAC-9490-921444B04071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{450B6F1A-53EB-47A8-880C-52593986B90E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC48829D-E2E3-4AAC-9490-921444B04071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC48829D-E2E3-4AAC-9490-921444B04071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC48829D-E2E3-4AAC-9490-921444B04071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450B6F1A-53EB-47A8-880C-52593986B90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450B6F1A-53EB-47A8-880C-52593986B90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450B6F1A-53EB-47A8-880C-52593986B90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450B6F1A-53EB-47A8-880C-52593986B90E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
