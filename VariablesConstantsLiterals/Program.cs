@@ -11,6 +11,7 @@ namespace VariablesConstantsLiterals
         static void Main(string[] args)
         {
             const string myName = "Алексей";
+            byte age2 = 35;
             Console.WriteLine(myName);
 
             Console.WriteLine("\tПривет мир!");
@@ -26,6 +27,13 @@ namespace VariablesConstantsLiterals
             Console.WriteLine(false);
 
             Console.WriteLine("\tПривет,\n мир!");
+
+            Console.WriteLine($"Мой возраст {age2}");
+
+            string name = "Jane";
+            byte age = 27;
+            string favcolor = "black";
+            Console.WriteLine("{0}\n  {1}\n {2}", name, age, favcolor);
 
             Console.ReadLine();
         }
