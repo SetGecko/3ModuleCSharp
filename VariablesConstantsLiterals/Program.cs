@@ -25,6 +25,8 @@ namespace VariablesConstantsLiterals
             Console.WriteLine(true);
             Console.WriteLine(false);
 
+            Console.WriteLine("\tПривет,\n мир!");
+
             Console.ReadLine();
         }
     }
