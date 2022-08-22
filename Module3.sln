@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInputAndOutput", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMainOperations", "CSharpMainOperations\CSharpMainOperations.csproj", "{6E2CB9E0-9B63-415A-A052-CE2195BC9C0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{5CDF8AD4-0411-47F5-95D1-B2D65B2541EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6E2CB9E0-9B63-415A-A052-CE2195BC9C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E2CB9E0-9B63-415A-A052-CE2195BC9C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E2CB9E0-9B63-415A-A052-CE2195BC9C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDF8AD4-0411-47F5-95D1-B2D65B2541EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDF8AD4-0411-47F5-95D1-B2D65B2541EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDF8AD4-0411-47F5-95D1-B2D65B2541EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDF8AD4-0411-47F5-95D1-B2D65B2541EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
